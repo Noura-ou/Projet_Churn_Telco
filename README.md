@@ -39,7 +39,9 @@ L'ensemble de données comprend des informations sur :
 - TotalCharges : The total amount charged to the customer
 - Churn : Whether the customer churned or not (Yes or No)
 
-[lien vers la base de données :] [https://www.kaggle.com/datasets/blastchar/telco-customer-churn]
+
+- [lien vers la base de données](https://www.kaggle.com/datasets/blastchar/telco-customer-churn)
+
 
 
 #### Les conversions effectuées sur les variables : 
