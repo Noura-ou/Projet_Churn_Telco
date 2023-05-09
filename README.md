@@ -46,19 +46,6 @@ L'ensemble de données comprend des informations sur :
 
 
 
-#### Les conversions effectuées sur les variables : 
-
-
-
-
-
-
-
-Bonus :
-
-    
-
-
 ## Features
  ⚠️ - IN Progress
 
@@ -84,7 +71,7 @@ Go to the project directory :
 
 ## Useful Documentation
 
-- [Learning Curves IN Python SKlearn](https://vitalflux.com/learning-curves-explained-python-sklearn-example/)
+- [Association entre Variables](http://shakedzy.xyz/dython/modules/nominal/)
 - [Encodage et Normalisation](https://www.youtube.com/watch?v=OGWwzm304Xs&list=PLO_fdPEVlfKqMDNmCFzQISI2H_nJcEDJq&index=25) 
 - [Bonus Piplines](https://www.youtube.com/watch?v=41mnga4ptso&list=PLO_fdPEVlfKqMDNmCFzQISI2H_nJcEDJq&index=26)
 - [Les métriques de régression](https://www.youtube.com/watch?v=_TE9fDgtOaE&list=PLO_fdPEVlfKqMDNmCFzQISI2H_nJcEDJq&index=24)
