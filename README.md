@@ -11,10 +11,12 @@ Elle rencontre actuellement un turnover important chez ses clients, elle vous so
 
 L'ensemble de données comprend des informations sur :
 
-    les clients qui ont quitté l'entreprise au cours du dernier mois - la colonne s'appelle "Churn
-    Les services auxquels chaque client a souscrit : téléphone, lignes multiples, internet, sécurité en ligne, sauvegarde en ligne, protection des appareils, assistance technique, télévision et films en streaming.
-    Informations sur le compte du client : ancienneté, contrat, mode de paiement, facturation dématérialisée, frais mensuels et total des frais.
-    Informations démographiques sur les clients : sexe, tranche d'âge, partenaires et personnes à charge.
+    * les clients qui ont quitté l'entreprise au cours du dernier mois - la colonne s'appelle "Churn
+    * Les services auxquels chaque client a souscrit : téléphone, lignes multiples, internet, sécurité en ligne, 
+    sauvegarde en ligne, protection des appareils, assistance technique, télévision et films en streaming.
+    * Informations sur le compte du client : ancienneté, contrat, mode de paiement, facturation dématérialisée, 
+    frais mensuels et total des frais.
+    * Informations démographiques sur les clients : sexe, tranche d'âge, partenaires et personnes à charge.
 
 
 - Customer ID
