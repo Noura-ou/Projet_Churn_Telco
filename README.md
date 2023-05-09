@@ -42,7 +42,7 @@ L'ensemble de données comprend des informations sur :
 - Churn : Whether the customer churned or not (Yes or No)
 
 
-- [lien vers la base de données](https://www.kaggle.com/datasets/blastchar/telco-customer-churn)
+[lien vers la base de données](https://www.kaggle.com/datasets/blastchar/telco-customer-churn)
 
 
 
