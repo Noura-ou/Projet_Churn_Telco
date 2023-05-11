@@ -9,3 +9,4 @@ plotly
 streamlit
 ydata_profiling
 dython
+mlflow
