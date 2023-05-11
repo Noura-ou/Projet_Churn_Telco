@@ -1,0 +1,16 @@
+artifact_uri: file:///home/apprenant/Documents/projets/Projet_Churn_Telco/Analysis%20%26%20Modeling/mlruns/901496592929171400/7493f3880ec44785bd08d3dc2011280b/artifacts
+deleted_time: 1683828864688
+end_time: 1683828305299
+entry_point_name: ''
+experiment_id: '901496592929171400'
+lifecycle_stage: deleted
+run_id: 7493f3880ec44785bd08d3dc2011280b
+run_name: RidgeCV Regularization
+run_uuid: 7493f3880ec44785bd08d3dc2011280b
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1683828303070
+status: 4
+tags: []
+user_id: apprenant

@@ -1,0 +1,16 @@
+artifact_uri: file:///home/apprenant/Documents/projets/Projet_Churn_Telco/Analysis%20%26%20Modeling/mlruns/901496592929171400/5540c9f1103440b3b57f317978c957f3/artifacts
+deleted_time: 1683832894129
+end_time: 1683831233926
+entry_point_name: ''
+experiment_id: '901496592929171400'
+lifecycle_stage: deleted
+run_id: 5540c9f1103440b3b57f317978c957f3
+run_name: nbservice_regLogistique
+run_uuid: 5540c9f1103440b3b57f317978c957f3
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1683831231588
+status: 3
+tags: []
+user_id: apprenant

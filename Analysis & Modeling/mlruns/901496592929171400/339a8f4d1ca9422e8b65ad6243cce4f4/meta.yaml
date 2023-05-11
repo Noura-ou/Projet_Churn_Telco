@@ -1,0 +1,15 @@
+artifact_uri: file:///home/apprenant/Documents/projets/Projet_Churn_Telco/Analysis%20%26%20Modeling/mlruns/901496592929171400/339a8f4d1ca9422e8b65ad6243cce4f4/artifacts
+end_time: 1683833809466
+entry_point_name: ''
+experiment_id: '901496592929171400'
+lifecycle_stage: active
+run_id: 339a8f4d1ca9422e8b65ad6243cce4f4
+run_name: Ridge Regularization (alpha=4)
+run_uuid: 339a8f4d1ca9422e8b65ad6243cce4f4
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1683833807210
+status: 3
+tags: []
+user_id: apprenant

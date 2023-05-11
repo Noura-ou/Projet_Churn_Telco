@@ -1,0 +1,16 @@
+artifact_uri: file:///home/apprenant/Documents/projets/Projet_Churn_Telco/Analysis%20%26%20Modeling/mlruns/901496592929171400/ea3a42af81d549c78f6a5377d1e19556/artifacts
+deleted_time: 1683828864690
+end_time: 1683827966885
+entry_point_name: ''
+experiment_id: '901496592929171400'
+lifecycle_stage: deleted
+run_id: ea3a42af81d549c78f6a5377d1e19556
+run_name: Régularisation_Ridge
+run_uuid: ea3a42af81d549c78f6a5377d1e19556
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1683827964530
+status: 4
+tags: []
+user_id: apprenant

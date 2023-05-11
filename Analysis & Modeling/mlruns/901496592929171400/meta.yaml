@@ -1,0 +1,6 @@
+artifact_location: file:///home/apprenant/Documents/projets/Projet_Churn_Telco/Analysis%20%26%20Modeling/mlruns/901496592929171400
+creation_time: 1683816388948
+experiment_id: '901496592929171400'
+last_update_time: 1683816388948
+lifecycle_stage: active
+name: churn_model

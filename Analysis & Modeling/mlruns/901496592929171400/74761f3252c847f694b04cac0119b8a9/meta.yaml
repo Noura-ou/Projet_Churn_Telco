@@ -1,0 +1,16 @@
+artifact_uri: file:///home/apprenant/Documents/projets/Projet_Churn_Telco/Analysis%20%26%20Modeling/mlruns/901496592929171400/74761f3252c847f694b04cac0119b8a9/artifacts
+deleted_time: 1683832894116
+end_time: 1683832183444
+entry_point_name: ''
+experiment_id: '901496592929171400'
+lifecycle_stage: deleted
+run_id: 74761f3252c847f694b04cac0119b8a9
+run_name: LassoCV Regularization
+run_uuid: 74761f3252c847f694b04cac0119b8a9
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1683832183434
+status: 4
+tags: []
+user_id: apprenant

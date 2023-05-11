@@ -1,0 +1,19 @@
+artifact_path: reglog_nbservice
+flavors:
+  python_function:
+    env:
+      conda: conda.yaml
+      virtualenv: python_env.yaml
+    loader_module: mlflow.sklearn
+    model_path: model.pkl
+    predict_fn: predict
+    python_version: 3.11.3
+  sklearn:
+    code: null
+    pickled_model: model.pkl
+    serialization_format: cloudpickle
+    sklearn_version: 1.2.2
+mlflow_version: 2.3.1
+model_uuid: 3dfe43706176464e9c5cc80dd2e5d7f7
+run_id: 3e34efd975804527b1b4cd34b17c9faa
+utc_time_created: '2023-05-11 18:52:18.256203'
