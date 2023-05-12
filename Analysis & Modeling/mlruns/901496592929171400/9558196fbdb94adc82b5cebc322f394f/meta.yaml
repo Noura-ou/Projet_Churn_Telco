@@ -1,8 +1,9 @@
 artifact_uri: file:///home/apprenant/Documents/projets/Projet_Churn_Telco/Analysis%20%26%20Modeling/mlruns/901496592929171400/9558196fbdb94adc82b5cebc322f394f/artifacts
+deleted_time: 1683875325921
 end_time: 1683834784111
 entry_point_name: ''
 experiment_id: '901496592929171400'
-lifecycle_stage: active
+lifecycle_stage: deleted
 run_id: 9558196fbdb94adc82b5cebc322f394f
 run_name: Naive_regLogistique
 run_uuid: 9558196fbdb94adc82b5cebc322f394f
